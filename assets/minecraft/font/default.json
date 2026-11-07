@@ -44,6 +44,42 @@
       "chars": [
         "\uE005"
       ]
-    }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/candyfloss.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/bumblebee.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/evergreen.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/wildflower.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE009"
+      ]
+    },
   ]
 }
